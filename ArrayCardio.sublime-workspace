@@ -1,0 +1,600 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"second",
+				"secondHand"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"pro",
+				"propertyName"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"content",
+				"content-wrap"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"Salesf",
+				"Salesforce"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"clor",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Clor",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 489.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"plugin install Emmet",
+			"emmet",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)v",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control: Install Package",
+			"Emmet",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/webdesign/Array Cardio"
+	],
+	"file_history":
+	[
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/Chef Kerns - PureWild/Dev Site/Test HTML/shrimp.html",
+		"/Users/webdesign/Array Cardio/index.html",
+		"/Users/webdesign/Update CSS Variables with JS/index.html",
+		"/Users/webdesign/JS Clock/index.html",
+		"/Users/webdesign/Update CSS Variables with JS/style.css",
+		"/Users/webdesign/Update CSS Variables with JS/jscs.js",
+		"/Users/webdesign/JavaScript 30 in 30/Source Files/JavaScript30-master/03 - CSS Variables/index-FINISHED.html",
+		"/Users/webdesign/JavaScript 30 in 30/Source Files/JavaScript30-master/02 - JS + CSS Clock/index-FINISHED.html",
+		"/Users/webdesign/JS Drum Kit/style.css",
+		"/Users/webdesign/JS Drum Kit/Index.html",
+		"/Users/webdesign/Codewars/splitthebill.js",
+		"/Users/webdesign/Codewars/suzukilineup.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites & Backups/HTML5 Boilerplates/Initializr/initializr/index.html",
+		"/Users/webdesign/Codewars/mumbling.js",
+		"/Users/webdesign/Codewars/jadencasingstrings.js",
+		"/Users/webdesign/Codewars/evilorodious.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/localhost/VB Testing Environment/VB Franchise/wp-config.php",
+		"/Users/webdesign/Codewars/sumuptherandomstring.js",
+		"/Users/webdesign/Codewars/Unsolved/doublecola.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/Vitality Bowls/Info/info.md",
+		"/Users/webdesign/apiapp/package.json",
+		"/Users/webdesign/tylerapi/server.js",
+		"/Users/webdesign/apiapp/client/index.html",
+		"/Users/webdesign/apiapp/server.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/Chef Kerns - PureWild/Info/info.md",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/NutsBolts/Info/info.md",
+		"/Users/webdesign/Codewars/stringtoarray.js",
+		"/Users/webdesign/Codewars/lightsabers.js",
+		"/Users/webdesign/FreeCodeCamp Algorithms/titlecaseasentence.js",
+		"/Users/webdesign/FreeCodeCamp Algorithms/reverseastring.js",
+		"/Users/webdesign/FreeCodeCamp Algorithms/palindromes.js",
+		"/Users/webdesign/FreeCodeCamp Algorithms/factorializeanumber.js",
+		"/Users/webdesign/Codewars/countingsheep.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/RedBag/Info/StockPurchases.md",
+		"/Users/webdesign/Codewars/isyourperiodlate.js",
+		"/Users/webdesign/Codewars/addlength.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/Bye Buy Practice/Info/Info.md",
+		"/Users/webdesign/Codewars/countofpossumofneg.js",
+		"/Users/webdesign/Codewars/longestcommonsub.js",
+		"/Users/webdesign/Codewars/arithmeticfunc.js",
+		"/Users/webdesign/Codewars/proofread.js",
+		"/Users/webdesign/Codewars/targetdate.js",
+		"/Users/webdesign/Codewars/rotateforamax.js",
+		"/Users/webdesign/Codewars/catsinhats.js",
+		"/Users/webdesign/Codewars/classichelloworld.js",
+		"/Users/webdesign/Codewars/iloveyou.js",
+		"/Users/webdesign/Codewars/es6stringconcat.js",
+		"/Users/webdesign/Codewars/numtoreversearrayofdigits.js",
+		"/Users/webdesign/Codewars/buildapileofcubes.js",
+		"/Users/webdesign/Codewars/allinclusive.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites & Backups/phplearning/wp-includes/functions.php",
+		"/Users/webdesign/Desktop/Starfield Project/Source_Code/starfield.js",
+		"/Users/webdesign/MyProfilePage/css/main.css",
+		"/Users/webdesign/MyProfilePage/index.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/ForsythCo.Drug Council/Info/phpVers.php",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites & Backups/RythymNLB/Development/css/style.css",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites & Backups/RythymNLB/Development/index.html",
+		"/Users/webdesign/Desktop/index.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/RedBag/Dev SIte/Newsletter Form/HTML/style.css",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/RedBag/Dev SIte/Newsletter Form/HTML/newsletter.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites & Backups/UBNSoft_HTML/style.css",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites & Backups/UBNSoft_HTML/index.html",
+		"/Users/webdesign/Desktop/mytest.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/Chef Kerns - PureWild/Dev Site/Fonts/My_Fontspring_Fonts/Webfonts/novecentosanswide_normal_macroman/stylesheet.css",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Misc/Ebooks/You-Dont-Know-JS-master/up & going/ch1.md",
+		"/Users/webdesign/Desktop/Free Code Camp/JavaScript/Difference in Arrays/DiffArrays.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Misc/HTML Templates/Envas/Envas/main-file/index.html",
+		"/Users/webdesign/VisitorEmailTemplate/indexnew.html",
+		"/Users/webdesign/VisitorEmailTemplate/index.html",
+		"/Users/webdesign/Desktop/Shawns HTML Email/HTML/visitoremail.html",
+		"/Users/webdesign/Library/Application Support/Yummy FTP/Remote Edits/ftp.newname.cc Edits/index.php1/index.php",
+		"/Users/webdesign/Library/Application Support/Yummy FTP/Remote Edits/ftp.newname.cc Edits/wp-config.php/wp-config.php",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites & Backups/Vitality Bowls/Database/wordpress_m2d2knheha.sql",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites & Backups/Vitality Bowls/wp-config.php",
+		"/Users/webdesign/Library/Application Support/Yummy FTP/Remote Edits/ftp.vanessaterrell.com Edits/wp-config.php2/wp-config.php",
+		"/Users/webdesign/Desktop/SumofRange.html",
+		"/Users/webdesign/Library/Application Support/Yummy FTP/Remote Edits/ftp.newname.cc Edits/wp-config.php1/wp-config.php",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/RGA/Info/php.ini",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/RGA/Database/.htaccess",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/RGA/Database/rockgood_wordpress220.sql",
+		"/Users/webdesign/Library/Application Support/Yummy FTP/Remote Edits/50.116.80.127 Edits/wp-config.php5/wp-config.php",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Clients/Dusty LaBossiere/Email Signature/Version 1/DustyLaBossiere_EmailSigV1.html",
+		"/Users/webdesign/Desktop/Shawns HTML Email/HTML/email.html",
+		"/Users/webdesign/Desktop/Email Sigs 8:29:16/emailsig_george.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Internal/NLB Furniture/Website/2016 NLB Funirture Website/Custom CSS/stylesheet.min.css",
+		"/Users/webdesign/Desktop/Email Sigs 8:29:16/emailsig_gibson.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/style.css",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/index.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/infrastructure.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/javacoe.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/media.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/microsoftcoe.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/mobilecoe.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/opensourcecoe.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/producteng.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/profile.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/retail.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/salesforcecoe.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/search.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/sitemap.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/techstack.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/testhome.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/travel.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/ubnadvantage.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/aboutus.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/banking.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/businessint.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/careers.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/casestudy.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/contact.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/corporatesocial.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/crmsolutions.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/datawarehouse.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/dedicatedcoc.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/development.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/engagement.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/engineering.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/enterpriseadm.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/enterprisemob.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/global.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/government.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/healthcare.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/.#corporatesocial.html",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/css/imports/layouts.css",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNPort/wp-content/themes/ubnsoftsolutions/index.php",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/oldcss.css",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/js/jquery.vmap.js",
+		"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites/UBNSoft_HTML/js/events-data.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders><open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"kbd",
+			"&#149;&nbsp;&nbsp;",
+			"&#149;&nbsp;&nbsp;&#149;&nbsp;&nbsp;",
+			"<li>",
+			"http://www.newurl",
+			"http://www.oldurl",
+			"lcs",
+			"</ul>",
+			"</li>",
+			"<ul>",
+			"&#8226;",
+			"<li>",
+			"•",
+			"strong",
+			"wp_enque",
+			"starfield",
+			"separat",
+			"center",
+			"Cart",
+			"body",
+			"Typography",
+			"web design",
+			"desktop-nav",
+			".inner-nav",
+			"transparent",
+			"dark",
+			"branding",
+			"Poppins",
+			"Dosis",
+			"H1",
+			"header",
+			"11",
+			"sidespace",
+			"full",
+			"inner",
+			"sidespace",
+			"small",
+			"TYPE=InnoDB",
+			"utf8mb4",
+			"CREATE TABLE IF NOT EXISTS",
+			".smallfont",
+			"12:00 - 12:45",
+			"12:00-12:45",
+			"smallfont",
+			"snallfont",
+			"full",
+			"divborder",
+			"\n</",
+			"facebook",
+			"hey aalan",
+			"Developed by <a href=\"http://nlbstudios.com/\" class=\"nlb\" target=\"_blank\">NLB</a> <a href=\"http://nlbstudios.com/\" target=\"_blank\" class=\"nlbs\">Studios</a>",
+			"Developed by ",
+			"UBNSoft Solutions",
+			"primary-menu",
+			"(91) 8547 632521 ",
+			"primary-menu",
+			"a",
+			"(91) 8547 632521 ",
+			"(91)8547 632521 ",
+			"(91) 8547 632521 ",
+			"<a href=\"shop.html\">",
+			"<li><a href=\"businessint.html\">Sitemap</a></li>",
+			"http://wordpress.org/support/",
+			"http://wordpress.org/extend/plugins/",
+			"http://wordpress.org/support/forum/requests-and-feedback",
+			"http://codex.wordpress.org/",
+			"technologies",
+			"technologoes",
+			"contactus.html",
+			"iconwhite",
+			"technologies",
+			"li class=\"current\"",
+			"a class=\"current\"",
+			"&amp;copy;",
+			"contact us",
+			"http://wordpress.org/extend/themes/",
+			"content=\"SemiColonWeb\"",
+			"SemiColonWeb",
+			";\n",
+			"rowprop",
+			"prop",
+			"row",
+			"rowprop",
+			"zcassini",
+			"url('/images",
+			"\"/images/",
+			".jpg",
+			"info@canvas.com",
+			"info@canvs.com",
+			"why choose",
+			"why",
+			"why choose ubnsof",
+			"why choose ubnsoft?",
+			"hexagon",
+			"sidebarblack",
+			"sidebar",
+			".nlb",
+			"true value investment",
+			"competitor",
+			"Envato",
+			".testi-image",
+			".testi-content",
+			"Salesforce",
+			"MVC_Net",
+			"portfolio-item",
+			"portfolio-full",
+			"portfolio-image",
+			"#portfolio",
+			"portfolio",
+			"portfoliuo",
+			"#portfolio",
+			"aspnet",
+			"#portfolio",
+			".postcontent",
+			"grid-container",
+			"#portfolio",
+			".portfolio",
+			"portfolio-item",
+			"pf-media",
+			"pf-ui",
+			".pf-ui",
+			"CASE STUDY",
+			"9ddb4a",
+			"listlarge",
+			"CAPCHA",
+			"\n.postconter, .sidebar",
+			".postcontent, .siderbar",
+			"postcontent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p",
+			"",
+			"<li>&#149;&nbsp;&nbsp;",
+			"http://localhost/:80",
+			"http://franchise.vitalitybowls.com/",
+			"LCS",
+			"",
+			"&#8226;&nbsp;",
+			"&#8226;",
+			"",
+			"span",
+			"Starfield",
+			"ENGINE=InnoDB",
+			"utf8",
+			"",
+			"UBNSoft Technologies",
+			"770-410-3086",
+			"<a href=\"#\">",
+			"<li><a href=\"sitemap.html\">Sitemap</a></li>",
+			"businessint.html",
+			"enterprisemob.html",
+			"enterpriseadm.html",
+			"producteng.html",
+			"contact.html",
+			"li id=\"current\"",
+			"a id=\"current\"",
+			"&#169;",
+			"careers.html",
+			"content=\"NLB Studios\"",
+			"NLB Studios",
+			"drazyhaze",
+			"url('https://zcassini.github.io/UBNSOFT/images/",
+			"\"https://zcassini.github.io/UBNSOFT/images/",
+			"\"https://zcassini.github.io/UBNSOFT/images/testimonials/sharepoint-testi.JPG\"",
+			".JPG",
+			"info@ubnsoftsolutions.com",
+			"&amp;",
+			"Poppins",
+			"8dc641",
+			"12pt",
+			"60",
+			"fsdivpadleft",
+			"</h4>",
+			"<h4>",
+			"<h4></h4>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "ArrayCardio.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/Studios/NLB Studios/NLBS Jobs/Web Development/Sites & Backups/RythymNLB/Development/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
